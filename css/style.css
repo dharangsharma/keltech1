@@ -5,7 +5,10 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 /*-- Reset Code --*/
-
+.w-100 {
+    width: 100% !important;
+    height: 85vh;
+}
 /* experiment */
 
 .slideshow-container {
@@ -1726,4 +1729,11 @@ li.subitem1 p {
     }
 }
 
+@media only screen and (max-width: 600px) {
+    .w-100 {
+        width: 100% !important;
+        height: 40vh;
+    }
+  }
 /* //responsive */
+
