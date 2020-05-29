@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 /*-- Reset Code --*/
 .w-100 {
     width: 100% !important;
-    height: 89vh;
+    height: 90vh;
 }
 /* experiment */
 
@@ -381,7 +381,7 @@ a.button-style {
 /* //news */
 /*-- middle --*/
 .middle-w3l {
-    background: url(../images/13.jpg) no-repeat center fixed;
+    background: url(../images/15.jpg) no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -647,7 +647,7 @@ p.copy-right-grids a:hover {
 /* inner pages */
 /* about page */
 .inner-banner-w3ls {
-    background: url(../images/bg1.jpg) no-repeat top;
+    background: url(../images/15.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
